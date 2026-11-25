@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bienvenue sur mon profile GitHub
+## Formation Développeur Web et Web mobile
+
+*Ici vous verrez tous mes projets fait durant ma formation
+
+# A propos de moi
+Actuellement en formation **Développeur web et web mobile (DWWM) je développe mes compétences dans la création de site et d'applications web
+
+**J'aime apprendre de nouvelles choses, acquérir de nouvelles compétences
+
+#En formation DWwM
+- Développement Front-End
+- Développement Back-end*
+
+En constante progression : Objectif : Développeur Full-Stack
+
+# Mes Compétences
+
+** Languages technologiques
+
+- HTML5
+- CSS3
+- JavaScript
+- nodeJS
+- Git
+- Github
+- Markdown
+
+# Mes Projets
+| Projet | Description |
+|..|..|
+[DWWM-TP : https://github.com/julienfoucher-blip/DWWM-tp | Mes travaux pratiques]
+
+# Mes Objectifs
+
+Approfondir mes connaissances en HTML5, CSS3 et JavaScript.
+
+Merci de votre visite
