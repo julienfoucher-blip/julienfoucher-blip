@@ -43,6 +43,8 @@ En constante progression : Objectif : Développeur Full-Stack
 - Github
 - Markdown
 
+  (aide de l'IA : cs50.ai : Canard de Harvard, en cas de difficulté)
+
 # Mes Projets
 | Projet | Description |
 |..|..|
